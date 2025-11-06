@@ -4,17 +4,6 @@ LogChain is a secure and centralized log collection system that ensures the inte
 Using AWS, it processes, stores, and queries critical logs while utilizing blockchain technology to guarantee the 
 immutability and authenticity of log data. This project is a concept and still needs work!
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Services](#services)
-- [System Architecture](#system-architecture)
-- [Instances & Functions](#instances-functions)
-- [Usage](#usage)
-- [License](#license)
-- [Diagram](#diagram)
-
 <h2 align="center"> Project Overview </h2>
 
 LogChain was developed with the objective of enhancing log security through blockchain technology. By implementing
